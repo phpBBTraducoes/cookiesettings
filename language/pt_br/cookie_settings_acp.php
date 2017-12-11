@@ -47,6 +47,7 @@ $lang = array_merge($lang, array(
 	'ACP_COOKIE_DISMISS'						=> 'Definir texto do botão para o cookie',
 	'ACP_COOKIE_DISMISS_EXPLAIN'				=> 'Altere o texto do botão para o cookie.',
 	'ACP_COOKIE_USE_LINK'						=> 'Use o link no cookie',
+	'ACP_COOKIE_USE_LINK_EXPLAIN'				=> 'Usar o link "Saiba mais" no cookie.',
 	'ACP_COOKIE_CONSENT_INFO'					=> 'Definir texto para URL',
 	'ACP_COOKIE_CONSENT_INFO_EXPLAIN'			=> 'Altere o texto para o link URL.',
 	'ACP_COOKIE_CONSENT_HREF'					=> 'Definir link URL',
